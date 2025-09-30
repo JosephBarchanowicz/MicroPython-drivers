@@ -6,6 +6,10 @@ It’s a simple foundation for robotics projects such as rovers, line-followers,
 
 ---
 
+![MotorCircuit](https://images/Motor_Driver_circuit.jpg)
+
+---
+
 ## Hardware Used
 - Raspberry Pi Pico (RP2040 microcontroller)
 - 2x TT Gear Motors
