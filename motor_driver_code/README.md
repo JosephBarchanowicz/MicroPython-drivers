@@ -6,7 +6,7 @@ It’s a simple foundation for robotics projects such as rovers, line-followers,
 
 ---
 
-![MotorCircuit](https://images/Motor_Driver_circuit.jpg)
+![MotorCircuit](images/Motor_Driver_circuit.jpg)
 
 ---
 
